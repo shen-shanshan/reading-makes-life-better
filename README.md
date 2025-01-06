@@ -1,6 +1,6 @@
 # reading-makes-life-better
 
-本仓库主要用于存放我的[<u>读书笔记</u>](https://shen-shanshan.github.io/categories/%E9%98%85%E8%AF%BB/)，并以此记录自己的读书历程。
+This repo is used for archiving my [<u>reading notes</u>](https://shen-shanshan.github.io/categories/%E9%98%85%E8%AF%BB/) and recoding the wonderful books I have read.
 
 ## 📚 2025 年度书单
 
